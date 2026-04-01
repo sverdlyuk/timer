@@ -2,6 +2,8 @@
 
 A simple and convenient timer for the **Lilka (ESP32-S3)** handheld console, featuring button controls and sound notifications.
 
+<img width="562" height="484" alt="timer_app" src="https://github.com/user-attachments/assets/aee4b110-79ae-42d8-9289-cca91307a890" />
+
 ## ✨ Features
 
 - Set time (hours, minutes, seconds)
